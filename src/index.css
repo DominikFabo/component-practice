@@ -50,6 +50,7 @@ header p {
   flex-direction: column;
   justify-content: flex-start;
   align-items: center;
+  text-align: center;
   gap: 1rem;
   background: linear-gradient(#250358, #440c66);
   padding: 1.5rem;
